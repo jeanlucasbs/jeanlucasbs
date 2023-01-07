@@ -1,7 +1,7 @@
 ### Hi there, I'm Jean 👋
 
 - 🎓 Computer Engineering Student at UFG  
-- 👨‍💻 Studying Full-Stack Development
+- 👨‍💻 Full-Stack Developer
 - 📍  Goiânia-GO
 
 <div align="center">
