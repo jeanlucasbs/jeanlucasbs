@@ -10,11 +10,15 @@
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeanlucasbs&layout=compact&langs_count=7&theme=dracula"/>
 </div>
  
-## Skils
+## Skills
   
 ### Languages:
 * Java;
 * JavaScript - NodeJS and ReactJS. </br>
+* Bootstrap;
+* Sass;
+* JQuery.
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Jean-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Jean-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
@@ -38,9 +42,8 @@
   <img align="center" alt="Jean-HTML" height="30" width="40" src="source/sql-server.png" width="40px" > &ensp;
 </div>
 
-## Connect with me
+### Connect with me:
 <div><br> 
-  <a href="https://instagram.com/iaejeanl" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:jeanbarbosabs"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/jeanlucasb/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
