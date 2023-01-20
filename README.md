@@ -12,7 +12,7 @@
  
 ## Skills
   
-### Languages:
+### Languages and technologies:
 * Java;
 * JavaScript - NodeJS and ReactJS. </br>
 * Bootstrap;
