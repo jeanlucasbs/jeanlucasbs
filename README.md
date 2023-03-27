@@ -13,7 +13,7 @@
 ## Skills
   
 ### Languages and technologies:
-* Java;
+* Java - Spring Boot;
 * JavaScript - NodeJS and ReactJS. </br>
 * Bootstrap;
 * Sass;
