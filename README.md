@@ -14,7 +14,7 @@
   
 ### Languages and technologies:
 * Java - Spring Boot;
-* JavaScript - NodeJS and ReactJS. </br>
+* JavaScript - ReactJS. </br>
 * Bootstrap;
 * Sass;
 * JQuery;
