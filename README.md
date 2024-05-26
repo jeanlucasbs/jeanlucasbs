@@ -1,6 +1,6 @@
 ### Hi there, I'm Jean 👋
 
-- 🎓 Computer Engineering Student at UFG  
+- 🎓 Computer Engineer graduated from UFG  
 - 👨‍💻 Full-Stack Developer
 - 📍 Goiânia-GO
 
