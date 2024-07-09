@@ -14,6 +14,7 @@
   
 ### Languages and technologies:
 * Java - Spring Boot;
+* Microsserviços;
 * JavaScript - ReactJS. </br>
 * Bootstrap;
 * Sass;
