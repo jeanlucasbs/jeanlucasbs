@@ -14,14 +14,17 @@
   
 ### Languages and technologies:
 * Java - Spring Boot;
-* Microsserviços;
 * JavaScript - ReactJS. </br>
+* Python
+* Delphi
+* Microsserviços;
 * Bootstrap;
 * Sass;
 * JQuery;
 * JUnit - Testes Unitários;
 * Docker Swarm e Kubernetes.
-* Mensageria - RabbitMQ
+* Mensageria - RabbitMQ e Apache Kafka
+* CI/CD - Jenkins e SonarQube
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Jean-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
