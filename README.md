@@ -1,6 +1,7 @@
 ### Hi there, I'm Jean 👋
 
-- 🎓 Computer Engineer graduated from UFG  
+- 🎓 Computer Engineer graduated from UFG
+- 🎓 Postgraduate in Natural Language Processing
 - 👨‍💻 Software Developer
 - 📍 Goiânia-GO
 
